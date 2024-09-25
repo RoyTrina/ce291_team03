@@ -1,0 +1,7 @@
+Student Rakib was here.  18/10/19 15:00.  Merge conflicts encountered: none
+Student Klive was here.  24/10/19 14:00.  Merge conflicts encountered: one
+Student Falah was here.  25/10/19 13:00.  Merge conflicts encountered: one
+Student Arpan was here.  25/10/19 14:00.  Merge conflicts encountered: one
+Student Trina was here.  25/10/19 14:20.  Merge conflicts encountered: one
+Student Ben was here.  25/10/19 14:40.  Merge conflicts encountered: one
+Student Mohseenur was here.  28/10/19 14:40.  Merge conflicts encountered: one
